@@ -1,4 +1,4 @@
-![Go](https://github.com/jak103/uno/workflows/Go/badge.svg?branch=master)
+![Go](https://github.com/jak103/uno/workflows/Go/badge.svg?branch=master) ![Node.js CI](https://github.com/marwtki/uno/workflows/Node.js%20CI/badge.svg)
 
 Read me
 
